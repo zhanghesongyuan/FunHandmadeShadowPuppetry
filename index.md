@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到 我的趣味手工皮影戏记录
 
-You can use the [editor on GitHub](https://github.com/zhanghesongyuan/FunHandmadeShadowPuppetry/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+手工皮影戏是一种非常有趣的传统艺术戏剧，其制作过程也独具特色。如果你也喜欢手工皮影戏，那么你可以很好的利用这款应用，帮助你制作和欣赏手工皮影戏的艺术特点和技巧。你可以记录自己制作的不同难度的手工皮影戏，制作材料和特点等。你可以随时更新制作进度，帮助你更好的查看和管理自己的制作流程，更好的享受手工皮影戏带来的乐趣。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-# Header 1
-## Header 2
-### Header 3
+我们将第一时间为您解答。
 
-- Bulleted
-- List
+### 邮箱地址: zhanghesongyuan7@126.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghesongyuan/FunHandmadeShadowPuppetry/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
